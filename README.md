@@ -6,4 +6,4 @@ These scripts are designed to be put at `/scripts` and customized by the develop
 
 These scripts assume [Drush version 8][drush8].
 
-drush8: https://github.com/drush-ops/drush/tree/8.x
+[drush8]: https://github.com/drush-ops/drush/tree/8.x
